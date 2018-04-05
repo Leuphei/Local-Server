@@ -1,0 +1,17 @@
+/bin/
+.DS_Store
+/Data/bans/
+/Data/characters/
+/Data/punishments/
+/Data/server/
+/Data/world/map/
+/Data/grand_exchange/
+/.settings/
+hs_err_pid*
+
+\.idea/
+
+lib/
+
+
+Data/logs/
